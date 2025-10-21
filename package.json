@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "vite build --bundler esbuild"
+    "build": "vite build"
   },
   "dependencies": {
     "@mui/icons-material": "^7.3.4",
